@@ -1,0 +1,21 @@
+.btn-link {
+    font-weight: 400;
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+  }
+
+  .btn-link:focus {
+    text-decoration: underline;
+    box-shadow: none;
+  }
+  
+  .btn-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  .btn-link:disabled, .btn-link.disabled {
+    color: #6c757d;
+    pointer-events: none;
+  }

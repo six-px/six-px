@@ -1,0 +1,17 @@
+{
+    "name": "six-px",
+    "version": "0.0.3",
+    "description": "CSS Framework",
+    "keywords": [
+        "css",
+        "framework",
+        "six-px"
+    ],
+    "main": "./px/index.js",
+    "homepage": "https://six-px.github.io",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/six-px/six-px"
+    },
+    "license": "MIT"
+}

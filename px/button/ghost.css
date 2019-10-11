@@ -1,0 +1,7 @@
+.btn.ghost {
+    background-color: transparent;
+}
+
+.btn.ghost.disabled, .btn.ghost:disabled {
+    background-color: transparent;
+}
