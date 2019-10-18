@@ -1,0 +1,30 @@
+.form-sm .form-item {
+    padding-bottom: 14px;
+    margin-bottom: 3px;
+}
+.form-sm .form-label {
+    line-height: 24px;
+}
+
+.form-sm .form-message {
+    bottom: -14px;
+    height: 14px;
+    line-height: 14px;
+}
+
+
+.form-lg .form-item {
+    padding-bottom: 18px;
+    margin-bottom: 12px;
+}
+.form-lg .form-label {
+    line-height: 36px;
+    font-size: 16px;
+}
+
+.form-lg .form-message {
+    bottom: -18px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 14px;
+}

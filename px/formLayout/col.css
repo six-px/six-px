@@ -1,0 +1,28 @@
+[class*="form-col-"] {
+    margin: 0 -6px;
+}
+
+[class*="form-col-"] .form-item {
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.form-col-2 .form-item {
+    float: left;
+    width: 50%;
+}
+
+.form-col-3 .form-item {
+    float: left;
+    width: 33.333333%;
+}
+
+.form-col-4 .form-item {
+    float: left;
+    width: 25%;
+}
+
+.form-col-5 .form-item {
+    float: left;
+    width: 20%;
+}
