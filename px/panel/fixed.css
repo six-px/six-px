@@ -1,0 +1,22 @@
+
+.panel-fixed {
+  position: relative;
+  margin: 26px 0 12px 0;
+  padding-top: 15px;
+}
+
+.panel-fixed .panel-head {
+  position: absolute;
+  left: 0;
+  top: -15px;
+  margin-top: 0;
+}
+
+.panel-fixed .panel-title {
+  padding: 0 24px;
+  border: 1px solid #007bff;
+  line-height: 28px;
+  border-radius: 3px;
+  color: #007bff;
+  background-color: #fff;
+}

@@ -1,0 +1,30 @@
+.panel {
+  margin: 12px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+.panel-head {
+  display: flex;
+  width:  100%;
+  height: 30px;
+  margin-top: 6px;
+}
+
+.panel-title {
+  height: 30px;
+  margin: 0 12px;
+  line-height: 30px;
+  font-weight: 700;
+}
+
+.panel-extra {
+  flex: 1;
+  height: 30px;
+  margin-right: 12px;
+}
+
+.panel-body {
+  padding: 12px;
+}
