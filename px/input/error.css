@@ -1,0 +1,16 @@
+.form-error .input,
+.input.input-error {
+  border-bottom: 1px solid red;
+}
+
+.form-error .input.input-border,
+.input.input-border.input-error {
+  border: 1px solid red;
+}
+
+.form-error .input:after,
+.form-error .input:before,
+.input.input-error:after,
+.input.input-error:before  {
+  background-color: red;
+}

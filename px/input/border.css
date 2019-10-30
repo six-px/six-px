@@ -1,0 +1,8 @@
+.input-border.input {
+  border: 1px solid #ccc;
+}
+
+.input-border.input::after,
+.input-border.input::before {
+  content: none;
+}
