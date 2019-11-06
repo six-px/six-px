@@ -32,3 +32,88 @@
     font-size: 12px;
     border-radius: 2px;
 }
+
+@media (max-width: 1199.98px) {
+
+    .btn-md-xl, .btn-group-md-xl > .btn {
+        height: 42px;
+        padding: 6px 16px;
+        line-height: 28px;
+        font-size: 18px;
+        border-radius: 6px;
+    }
+
+    .btn-md-lg, .btn-group-md-lg > .btn {
+        height: 36px;
+        padding: 5px 14px;
+        line-height: 24px;
+        font-size: 16px;
+        border-radius: 5px;
+    }
+
+    .btn-md-md, .btn-group-md-md > .btn {
+        height: 30px;
+        padding: 4px 12px;
+        line-height: 20px;
+        font-size: 14px;
+        border-radius: 3px;
+    }
+
+    .btn-md-sm, .btn-group-md-sm > .btn {
+        height: 24px;
+        padding: 3px 9px;
+        line-height: 16px;
+        font-size: 12px;
+        border-radius: 2px;
+    }
+    
+    .btn-md-xs, .btn-group-md-xs > .btn {
+        height: 18px;
+        padding: 0 7px;
+        line-height: 16px;
+        font-size: 12px;
+        border-radius: 2px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .btn-sm-xl, .btn-group-sm-xl > .btn {
+        height: 42px;
+        padding: 6px 16px;
+        line-height: 28px;
+        font-size: 18px;
+        border-radius: 6px;
+    }
+
+    .btn-sm-lg, .btn-group-sm-lg > .btn {
+        height: 36px;
+        padding: 5px 14px;
+        line-height: 24px;
+        font-size: 16px;
+        border-radius: 5px;
+    }
+
+    .btn-sm-md, .btn-group-sm-md > .btn {
+        height: 30px;
+        padding: 4px 12px;
+        line-height: 20px;
+        font-size: 14px;
+        border-radius: 3px;
+    }
+
+    .btn-sm-sm, .btn-group-sm-sm > .btn {
+        height: 24px;
+        padding: 3px 9px;
+        line-height: 16px;
+        font-size: 12px;
+        border-radius: 2px;
+    }
+    
+    .btn-sm-xs, .btn-group-sm-xs > .btn {
+        height: 18px;
+        padding: 0 7px;
+        line-height: 16px;
+        font-size: 12px;
+        border-radius: 2px;
+    }
+}

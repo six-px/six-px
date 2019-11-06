@@ -29,3 +29,119 @@
 .input.input-lg:before {
   height: 6px;
 }
+
+@media (max-width: 1199.98px) {
+
+  /* sm */
+
+  .input.input-md-sm {
+    height: 24px;
+  }
+  
+  .input.input-md-sm  input {
+    height: 22px;
+    padding: 0 4px;
+    line-height: 22px;
+    font-size: 12px;
+  }
+  
+  .input.input-md-sm:after,
+  .input.input-md-sm:before {
+    height: 2px;
+  }
+
+  /* md */
+
+  .input.input-md-md {
+    height: 30px;
+  }
+  
+  .input.input-md-md  input {
+    height: 28px;
+    padding: 0 6px;
+    line-height: 28px;
+    font-size: 14px;
+  }
+  
+  .input.input-md-md:after,
+  .input.input-md-md:before {
+    height: 4px;
+  }
+
+  /* lg */
+  
+  .input.input-md-lg {
+    height: 36px;
+  }
+  
+  .input.input-md-lg  input {
+    height: 34px;
+    padding: 0 8px;
+    line-height: 34px;
+    font-size: 16px;
+  }
+  
+  .input.input-md-lg:after,
+  .input.input-md-lg:before {
+    height: 6px;
+  }
+
+}
+
+@media (max-width: 991.98px) {
+
+    /* sm */
+
+    .input.input-sm-sm {
+      height: 24px;
+    }
+    
+    .input.input-sm-sm  input {
+      height: 22px;
+      padding: 0 4px;
+      line-height: 22px;
+      font-size: 12px;
+    }
+    
+    .input.input-sm-sm:after,
+    .input.input-sm-sm:before {
+      height: 2px;
+    }
+  
+    /* md */
+  
+    .input.input-sm-md {
+      height: 30px;
+    }
+    
+    .input.input-sm-md  input {
+      height: 28px;
+      padding: 0 6px;
+      line-height: 28px;
+      font-size: 14px;
+    }
+    
+    .input.input-sm-md:after,
+    .input.input-sm-md:before {
+      height: 4px;
+    }
+  
+    /* lg */
+    
+    .input.input-sm-lg {
+      height: 36px;
+    }
+    
+    .input.input-sm-lg  input {
+      height: 34px;
+      padding: 0 8px;
+      line-height: 34px;
+      font-size: 16px;
+    }
+    
+    .input.input-sm-lg:after,
+    .input.input-sm-lg:before {
+      height: 6px;
+    }
+
+}

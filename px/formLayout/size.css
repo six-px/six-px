@@ -28,3 +28,103 @@
     line-height: 18px;
     font-size: 14px;
 }
+
+@media (max-width: 1199.98px) {
+    .form-md-sm .form-item {
+        padding-bottom: 14px;
+        margin-bottom: 3px;
+    }
+    .form-md-sm .form-label {
+        line-height: 24px;
+        font-size: 14px;
+    }
+    
+    .form-md-sm .form-message {
+        bottom: -14px;
+        height: 14px;
+        line-height: 14px;
+        font-size: 12px;
+    }
+
+    .form-md-md .form-item {
+        padding-bottom: 16px;
+        margin-bottom: 6px;
+    }
+    .form-md-md .form-label {
+        line-height: 30px;
+        font-size: 14px;
+    }
+    
+    .form-md-md .form-message {
+        bottom: -16px;
+        height: 16px;
+        line-height: 16px;
+        font-size: 12px;
+    }
+
+    .form-md-lg .form-item {
+        padding-bottom: 18px;
+        margin-bottom: 12px;
+    }
+    .form-md-lg .form-label {
+        line-height: 36px;
+        font-size: 16px;
+    }
+    
+    .form-md-lg .form-message {
+        bottom: -18px;
+        height: 18px;
+        line-height: 18px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .form-sm-sm .form-item {
+        padding-bottom: 14px;
+        margin-bottom: 3px;
+    }
+    .form-sm-sm .form-label {
+        line-height: 24px;
+        font-size: 14px;
+    }
+    
+    .form-sm-sm .form-message {
+        bottom: -14px;
+        height: 14px;
+        line-height: 14px;
+        font-size: 12px;
+    }
+
+    .form-sm-md .form-item {
+        padding-bottom: 16px;
+        margin-bottom: 6px;
+    }
+    .form-sm-md .form-label {
+        line-height: 30px;
+        font-size: 14px;
+    }
+    
+    .form-sm-md .form-message {
+        bottom: -16px;
+        height: 16px;
+        line-height: 16px;
+        font-size: 12px;
+    }
+
+    .form-sm-lg .form-item {
+        padding-bottom: 18px;
+        margin-bottom: 12px;
+    }
+    .form-sm-lg .form-label {
+        line-height: 36px;
+        font-size: 16px;
+    }
+    
+    .form-sm-lg .form-message {
+        bottom: -18px;
+        height: 18px;
+        line-height: 18px;
+        font-size: 14px;
+    }
+}

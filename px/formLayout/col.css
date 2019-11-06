@@ -1,8 +1,8 @@
-[class*="form-col-"] {
+[class*=form-col-] {
     margin: 0 -6px;
 }
 
-[class*="form-col-"] .form-item {
+[class*=form-col-] .form-item {
     padding-right: 6px;
     padding-left: 6px;
 }
@@ -25,4 +25,48 @@
 .form-col-5 .form-item {
     float: left;
     width: 20%;
+}
+
+@media (max-width: 1199.98px) {
+    .form-col-md-2 .form-item {
+        float: left;
+        width: 50%;
+    }
+    
+    .form-col-md-3 .form-item {
+        float: left;
+        width: 33.333333%;
+    }
+    
+    .form-col-md-4 .form-item {
+        float: left;
+        width: 25%;
+    }
+    
+    .form-col-md-5 .form-item {
+        float: left;
+        width: 20%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .form-col-sm-2 .form-item {
+        float: left;
+        width: 50%;
+    }
+    
+    .form-col-sm-3 .form-item {
+        float: left;
+        width: 33.333333%;
+    }
+    
+    .form-col-sm-4 .form-item {
+        float: left;
+        width: 25%;
+    }
+    
+    .form-col-sm-5 .form-item {
+        float: left;
+        width: 20%;
+    }
 }

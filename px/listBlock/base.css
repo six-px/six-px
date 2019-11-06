@@ -1,0 +1,18 @@
+[class*=list-block-] {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+[class*=list-block-] > li {
+  display: block;
+  float: left;
+}
+
+[class*=list-block-] > li > .block {
+  border: 1px solid #ccc;
+}
+
+[class*=list-block-].no-border > li > .block {
+  border: none;
+}

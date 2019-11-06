@@ -32,6 +32,7 @@
 }
 
 .form-message {
+    overflow: hidden;
     position: absolute;
     left: 0;
     bottom: -16px;
@@ -40,6 +41,9 @@
     line-height: 16px;
     font-size: 12px;
     color: #ccc;
+    text-overflow: ellipsis;
+    word-wrap: normal;
+    white-space: nowrap;
 }
 
 .form-error .form-message {

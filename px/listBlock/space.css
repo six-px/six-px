@@ -1,0 +1,61 @@
+[class*=list-block-].list-space-6 {
+  margin: 0 -3px;
+  padding: 3px 0;
+}
+[class*=list-block-].list-space-6all {
+  padding: 3px;
+}
+[class*=list-block-].list-space-6 > li,
+[class*=list-block-].list-space-6all > li {
+  padding: 3px;
+}
+
+
+[class*=list-block-].list-space-12 {
+  margin: 0 -6px;
+  padding: 6px 0;
+}
+[class*=list-block-].list-space-12all {
+  padding: 6px;
+}
+[class*=list-block-].list-space-12 > li,
+[class*=list-block-].list-space-12all > li {
+  padding: 6px;
+}
+
+
+[class*=list-block-].list-space-18 {
+  margin: 0 -9px;
+  padding: 9px 0;
+}
+[class*=list-block-].list-space-18all {
+  padding: 9px;
+}
+[class*=list-block-].list-space-18 > li,
+[class*=list-block-].list-space-18all > li {
+  padding: 9px;
+}
+
+[class*=list-block-].list-space-24 {
+  margin: 0 -12px;
+  padding: 12px 0;
+}
+[class*=list-block-].list-space-24all {
+  padding: 12px;
+}
+[class*=list-block-].list-space-24 > li,
+[class*=list-block-].list-space-24all > li {
+  padding: 12px;
+}
+
+[class*=list-block-].list-space-30 {
+  margin: 0 -15px;
+  padding: 15px 0;
+}
+[class*=list-block-].list-space-30all {
+  padding: 15px;
+}
+[class*=list-block-].list-space-30 > li,
+[class*=list-block-].list-space-30all > li {
+  padding: 15px;
+}

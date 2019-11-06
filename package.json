@@ -1,8 +1,9 @@
 {
     "name": "six-px",
-    "version": "0.0.6",
-    "description": "CSS Framework",
+    "version": "0.0.7",
+    "description": "PC CSS Framework",
     "keywords": [
+        "pc",
         "css",
         "framework",
         "six-px"
