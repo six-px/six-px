@@ -1,5 +1,5 @@
 ## six-px
-six-px is a css framework.
+six-px is a pc css framework.
 ## why six-px
 Spacing and size step are 6px.
 ## demo
