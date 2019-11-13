@@ -28,44 +28,44 @@
 }
 
 @media (max-width: 1199.98px) {
-    .form-col-md-2 .form-item {
+    .form-col-2-md .form-item {
         float: left;
         width: 50%;
     }
     
-    .form-col-md-3 .form-item {
+    .form-col-3-md .form-item {
         float: left;
         width: 33.333333%;
     }
     
-    .form-col-md-4 .form-item {
+    .form-col-4-md .form-item {
         float: left;
         width: 25%;
     }
     
-    .form-col-md-5 .form-item {
+    .form-col-5-md .form-item {
         float: left;
         width: 20%;
     }
 }
 
 @media (max-width: 991.98px) {
-    .form-col-sm-2 .form-item {
+    .form-col-2-sm .form-item {
         float: left;
         width: 50%;
     }
     
-    .form-col-sm-3 .form-item {
+    .form-col-3-sm .form-item {
         float: left;
         width: 33.333333%;
     }
     
-    .form-col-sm-4 .form-item {
+    .form-col-4-sm .form-item {
         float: left;
         width: 25%;
     }
     
-    .form-col-sm-5 .form-item {
+    .form-col-5-sm .form-item {
         float: left;
         width: 20%;
     }

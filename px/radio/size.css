@@ -52,19 +52,19 @@
 
 @media (max-width: 1199.98px) {
   /* ms */
-  .radio-md-sm.radio-wrapper {
+  .radio-sm-md.radio-wrapper {
     height: 24px;
     margin: 0 8px 0 0;
     line-height: 24px;
     font-size: 12px;
   }
   
-  .radio-md-sm .radio-inner {
+  .radio-sm-md .radio-inner {
     width: 12px;
     height: 12px;
   }
   
-  .radio-md-sm .radio-inner::after {
+  .radio-sm-md .radio-inner::after {
     top: 2px;
     left: 2px;
     width: 6px;
@@ -72,7 +72,7 @@
     border-radius: 6px;
   }
   
-  .radio-md-sm .radio + * {
+  .radio-sm-md .radio + * {
     padding: 0 4px;
   }
   /* md */
@@ -100,19 +100,19 @@
     padding: 0 6px;
   }
   /* lg */
-  .radio-md-lg.radio-wrapper {
+  .radio-lg-md.radio-wrapper {
     height: 36px;
     margin: 0 16px 0 0;
     line-height: 36px;
     font-size: 16px;
   }
   
-  .radio-md-lg .radio-inner {
+  .radio-lg-md .radio-inner {
     width: 18px;
     height: 18px;
   }
   
-  .radio-md-lg .radio-inner::after {
+  .radio-lg-md .radio-inner::after {
     top: 3px;
     left: 3px;
     width: 10px;
@@ -120,7 +120,7 @@
     border-radius: 10px;
   }
   
-  .radio-md-lg .radio + * {
+  .radio-lg-md .radio + * {
     padding: 0 8px;
   }
 }
@@ -151,19 +151,19 @@
     padding: 0 4px;
   }
   /* md */
-  .radio-sm-md.radio-wrapper {
+  .radio-md-sm.radio-wrapper {
     height: 30px;
     margin: 0 12px 0 0;
     line-height: 30px;
     font-size: 14px;
   }
   
-  .radio-sm-md .radio-inner {
+  .radio-md-sm .radio-inner {
     width: 16px;
     height: 16px;
   }
   
-  .radio-sm-md .radio-inner::after {
+  .radio-md-sm.radio-inner::after {
     top: 3px;
     left: 3px;
     width: 8px;
@@ -171,23 +171,23 @@
     border-radius: 8px;
   }
   
-  .radio-sm-md .radio + * {
+  .radio-md-sm .radio + * {
     padding: 0 6px;
   }
   /* lg */
-  .radio-sm-lg.radio-wrapper {
+  .radio-lg-sm.radio-wrapper {
     height: 36px;
     margin: 0 16px 0 0;
     line-height: 36px;
     font-size: 16px;
   }
   
-  .radio-sm-lg .radio-inner {
+  .radio-lg-sm .radio-inner {
     width: 18px;
     height: 18px;
   }
   
-  .radio-sm-lg .radio-inner::after {
+  .radio-lg-sm .radio-inner::after {
     top: 3px;
     left: 3px;
     width: 10px;
@@ -195,7 +195,7 @@
     border-radius: 10px;
   }
   
-  .radio-sm-lg .radio + * {
+  .radio-lg-sm .radio + * {
     padding: 0 8px;
   }
 }

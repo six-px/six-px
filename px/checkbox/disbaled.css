@@ -1,0 +1,35 @@
+.checkbox-wrapper.checkbox-disabled {
+  cursor: not-allowed;
+}
+
+.checkbox-disabled .checkbox {
+  cursor: not-allowed;
+}
+
+.checkbox-disabled .checkbox + * {
+  color: #c6c6c6;
+  cursor: not-allowed;
+}
+
+.checkbox-disabled .checkbox-input {
+  cursor: not-allowed;
+}
+
+.checkbox-disabled .checkbox-inner {
+  background-color: #f5f5f5;
+  border-color: #d9d9d9;
+}
+
+.checkbox-disabled .checkbox-inner::after {
+  border-color: #f5f5f5;
+  border-collapse: separate;
+  animation-name: none;
+}
+
+.checkbox-disabled.checkbox-checked .checkbox-inner::after {
+  border-color: #c9c9c9;
+}
+
+.checkbox-wrapper.checkbox-disabled.checkbox-checked:hover .checkbox::after {
+  visibility: hidden
+}

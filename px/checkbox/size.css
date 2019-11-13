@@ -1,0 +1,198 @@
+/* sm */
+.checkbox-sm.checkbox-wrapper {
+  height: 24px;
+  margin: 0 8px 0 0;
+  line-height: 24px;
+  font-size: 12px;
+}
+
+.checkbox-sm .checkbox + * {
+  padding: 0 4px;
+}
+
+.checkbox-sm .checkbox-inner {
+  width: 14px;
+  height: 14px;
+}
+
+.checkbox-sm .checkbox-inner::after {
+  top: 45%;
+  left: 16%;
+  width: 5px;
+  height: 9px;
+}
+
+/* lg */
+
+.checkbox-lg.checkbox-wrapper {
+  height: 36px;
+  margin: 0 16px 0 0;
+  line-height: 36px;
+  font-size: 16px;
+}
+
+.checkbox-lg .checkbox + * {
+  padding: 0 8px;
+}
+
+.checkbox-lg .checkbox-inner {
+  width: 18px;
+  height: 18px;
+}
+
+.checkbox-lg .checkbox-inner::after {
+  top: 45%;
+  left: 20%;
+  width: 6px;
+  height: 11px;
+}
+
+@media (max-width: 1199.98px) {
+  /* sm */
+  .checkbox-sm-md.checkbox-wrapper {
+    height: 24px;
+    margin: 0 8px 0 0;
+    line-height: 24px;
+    font-size: 12px;
+  }
+
+  .checkbox-sm-md .checkbox + * {
+    padding: 0 4px;
+  }
+
+  .checkbox-sm-md .checkbox-inner {
+    width: 14px;
+    height: 14px;
+  }
+
+  .checkbox-sm-md .checkbox-inner::after {
+    top: 45%;
+    left: 16%;
+    width: 5px;
+    height: 9px;
+  }
+
+  /* md */
+  .checkbox-md-md.checkbox-wrapper {
+    height: 30px;
+    margin: 0 12px 0 0;
+    line-height: 30px;
+    font-size: 14px;
+  }
+
+  .checkbox-md-md .checkbox + * {
+    padding: 0 6px;
+  }
+
+  .checkbox-md-md .checkbox-inner {
+    width: 16px;
+    height: 16px;
+  }
+
+  .checkbox-md-md .checkbox-inner::after {
+    top: 50%;
+    left: 22%;
+    width: 5px;
+    height: 9px;
+  }
+
+  /* lg */
+
+  .checkbox-lg-md.checkbox-wrapper {
+    height: 36px;
+    margin: 0 16px 0 0;
+    line-height: 36px;
+    font-size: 16px;
+  }
+
+  .checkbox-lg-md .checkbox + * {
+    padding: 0 8px;
+  }
+
+  .checkbox-lg-md .checkbox-inner {
+    width: 18px;
+    height: 18px;
+  }
+
+  .checkbox-lg-md .checkbox-inner::after {
+    top: 45%;
+    left: 20%;
+    width: 6px;
+    height: 11px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  /* sm */
+  .checkbox-sm-sm.checkbox-wrapper {
+    height: 24px;
+    margin: 0 8px 0 0;
+    line-height: 24px;
+    font-size: 12px;
+  }
+
+  .checkbox-sm-sm .checkbox + * {
+    padding: 0 4px;
+  }
+
+  .checkbox-sm-sm .checkbox-inner {
+    width: 14px;
+    height: 14px;
+  }
+
+  .checkbox-sm-sm .checkbox-inner::after {
+    top: 45%;
+    left: 16%;
+    width: 5px;
+    height: 9px;
+  }
+
+  /* md */
+  .checkbox-md-sm.checkbox-wrapper {
+    height: 30px;
+    margin: 0 12px 0 0;
+    line-height: 30px;
+    font-size: 14px;
+  }
+
+  .checkbox-md-sm .checkbox + * {
+    padding: 0 6px;
+  }
+
+  .checkbox-md-sm .checkbox-inner {
+    width: 16px;
+    height: 16px;
+  }
+
+  .checkbox-md-sm .checkbox-inner::after {
+    top: 50%;
+    left: 22%;
+    width: 5px;
+    height: 9px;
+  }
+
+  /* lg */
+
+  .checkbox-lg-sm.checkbox-wrapper {
+    height: 36px;
+    margin: 0 16px 0 0;
+    line-height: 36px;
+    font-size: 16px;
+  }
+
+  .checkbox-lg-sm .checkbox + * {
+    padding: 0 8px;
+  }
+
+  .checkbox-lg-sm .checkbox-inner {
+    width: 18px;
+    height: 18px;
+  }
+
+  .checkbox-lg-sm .checkbox-inner::after {
+    top: 45%;
+    left: 20%;
+    width: 6px;
+    height: 11px;
+  }
+}
